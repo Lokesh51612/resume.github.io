@@ -1,0 +1,67 @@
+
+
+body{
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+
+#top{
+    border-top: 5px solid white;
+    height: 5px;
+    text-align: center;
+    border-radius: 2px;
+    margin-left: 4%;
+    margin-right: 8%;
+
+
+}
+
+.container{
+    margin-left: 5%;
+    margin-right: 9%;
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+
+button{
+    color: white;
+    background-color: black;
+    border: black;
+}
+p{
+    margin: 2%;
+}
+.grid-container{
+    display: grid;
+    grid-template-rows: auto ;
+    grid-template-columns: auto auto;
+}
+.grid-item{
+    padding: 5px;
+}
+
+.select-all{
+    color: #00ffff;
+}
+li,p,div{
+    columns: #fdffcd;
+}
+b{
+    color: pink;
+}
+.sub-head, .sub-head2{
+    color: lightcoral;
+}
+.resp{
+    padding: 10px;
+    margin-left: 25px;
+}
+
+#signature{
+    font-size: x-large;
+    text-align-last: right;
+}
+.footer{
+    text-align-last: center;
+}
