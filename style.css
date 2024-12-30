@@ -65,3 +65,7 @@ b{
 .footer{
     text-align-last: center;
 }
+.grid-items{
+    align-items: center;
+    margin-left: 25%;
+}
